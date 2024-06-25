@@ -1,5 +1,6 @@
 import React from 'react';
-import OperationalManual from './OperationalManual'; // Use the correct file name
+import OperationalManual from './OperationalManual';
+import './App.css';
 
 function App() {
   return (
